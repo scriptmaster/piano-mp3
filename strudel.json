@@ -1,12 +1,10 @@
 {
   "_base": "https://raw.githubusercontent.com/scriptmaster/piano-mp3/master/piano-mp3/",
 
-  // Octave 0
   "a0": "A0.mp3",
   "a#0": "Bb0.mp3",
   "b0": "B0.mp3",
 
-  // Octave 1
   "c1": "C1.mp3",
   "c#1": "Db1.mp3",
   "d1": "D1.mp3",
@@ -20,7 +18,6 @@
   "a#1": "Bb1.mp3",
   "b1": "B1.mp3",
 
-  // Octave 2
   "c2": "C2.mp3",
   "c#2": "Db2.mp3",
   "d2": "D2.mp3",
@@ -34,7 +31,6 @@
   "a#2": "Bb2.mp3",
   "b2": "B2.mp3",
 
-  // Octave 3
   "c3": "C3.mp3",
   "c#3": "Db3.mp3",
   "d3": "D3.mp3",
@@ -48,7 +44,6 @@
   "a#3": "Bb3.mp3",
   "b3": "B3.mp3",
 
-  // Octave 4
   "c4": "C4.mp3",
   "c#4": "Db4.mp3",
   "d4": "D4.mp3",
@@ -62,7 +57,6 @@
   "a#4": "Bb4.mp3",
   "b4": "B4.mp3",
 
-  // Octave 5
   "c5": "C5.mp3",
   "c#5": "Db5.mp3",
   "d5": "D5.mp3",
@@ -76,7 +70,6 @@
   "a#5": "Bb5.mp3",
   "b5": "B5.mp3",
 
-  // Octave 6
   "c6": "C6.mp3",
   "c#6": "Db6.mp3",
   "d6": "D6.mp3",
@@ -90,7 +83,6 @@
   "a#6": "Bb6.mp3",
   "b6": "B6.mp3",
 
-  // Octave 7
   "c7": "C7.mp3",
   "c#7": "Db7.mp3",
   "d7": "D7.mp3",
@@ -104,6 +96,5 @@
   "a#7": "Bb7.mp3",
   "b7": "B7.mp3",
 
-  // Octave 8
   "c8": "C8.mp3"
 }
