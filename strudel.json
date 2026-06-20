@@ -1,0 +1,109 @@
+{
+  "_base": "https://raw.githubusercontent.com/scriptmaster/piano-mp3/master/piano-mp3/",
+
+  // Octave 0
+  "a0": "A0.mp3",
+  "a#0": "Bb0.mp3",
+  "b0": "B0.mp3",
+
+  // Octave 1
+  "c1": "C1.mp3",
+  "c#1": "Db1.mp3",
+  "d1": "D1.mp3",
+  "d#1": "Eb1.mp3",
+  "e1": "E1.mp3",
+  "f1": "F1.mp3",
+  "f#1": "Gb1.mp3",
+  "g1": "G1.mp3",
+  "g#1": "Ab1.mp3",
+  "a1": "A1.mp3",
+  "a#1": "Bb1.mp3",
+  "b1": "B1.mp3",
+
+  // Octave 2
+  "c2": "C2.mp3",
+  "c#2": "Db2.mp3",
+  "d2": "D2.mp3",
+  "d#2": "Eb2.mp3",
+  "e2": "E2.mp3",
+  "f2": "F2.mp3",
+  "f#2": "Gb2.mp3",
+  "g2": "G2.mp3",
+  "g#2": "Ab2.mp3",
+  "a2": "A2.mp3",
+  "a#2": "Bb2.mp3",
+  "b2": "B2.mp3",
+
+  // Octave 3
+  "c3": "C3.mp3",
+  "c#3": "Db3.mp3",
+  "d3": "D3.mp3",
+  "d#3": "Eb3.mp3",
+  "e3": "E3.mp3",
+  "f3": "F3.mp3",
+  "f#3": "Gb3.mp3",
+  "g3": "G3.mp3",
+  "g#3": "Ab3.mp3",
+  "a3": "A3.mp3",
+  "a#3": "Bb3.mp3",
+  "b3": "B3.mp3",
+
+  // Octave 4
+  "c4": "C4.mp3",
+  "c#4": "Db4.mp3",
+  "d4": "D4.mp3",
+  "d#4": "Eb4.mp3",
+  "e4": "E4.mp3",
+  "f4": "F4.mp3",
+  "f#4": "Gb4.mp3",
+  "g4": "G4.mp3",
+  "g#4": "Ab4.mp3",
+  "a4": "A4.mp3",
+  "a#4": "Bb4.mp3",
+  "b4": "B4.mp3",
+
+  // Octave 5
+  "c5": "C5.mp3",
+  "c#5": "Db5.mp3",
+  "d5": "D5.mp3",
+  "d#5": "Eb5.mp3",
+  "e5": "E5.mp3",
+  "f5": "F5.mp3",
+  "f#5": "Gb5.mp3",
+  "g5": "G5.mp3",
+  "g#5": "Ab5.mp3",
+  "a5": "A5.mp3",
+  "a#5": "Bb5.mp3",
+  "b5": "B5.mp3",
+
+  // Octave 6
+  "c6": "C6.mp3",
+  "c#6": "Db6.mp3",
+  "d6": "D6.mp3",
+  "d#6": "Eb6.mp3",
+  "e6": "E6.mp3",
+  "f6": "F6.mp3",
+  "f#6": "Gb6.mp3",
+  "g6": "G6.mp3",
+  "g#6": "Ab6.mp3",
+  "a6": "A6.mp3",
+  "a#6": "Bb6.mp3",
+  "b6": "B6.mp3",
+
+  // Octave 7
+  "c7": "C7.mp3",
+  "c#7": "Db7.mp3",
+  "d7": "D7.mp3",
+  "d#7": "Eb7.mp3",
+  "e7": "E7.mp3",
+  "f7": "F7.mp3",
+  "f#7": "Gb7.mp3",
+  "g7": "G7.mp3",
+  "g#7": "Ab7.mp3",
+  "a7": "A7.mp3",
+  "a#7": "Bb7.mp3",
+  "b7": "B7.mp3",
+
+  // Octave 8
+  "c8": "C8.mp3"
+}
